@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>🔭 I’m currently working on enhancing my MERN stack skills and web development projects<br>🤝 I’m looking to collaborate on open-source web development projects or innovative app ideas<br>🟡 I’m looking for help with mastering  DSA topicsfor placements<br>🌱 I’m currently learning MERN <br>💬 Ask me about JavaScript, React.js, and how to document your learning journey effectively<br>⚡ Fun fact: I love photography 
+<br><br>🔭 I’m currently working on enhancing my MERN stack skills and web development projects<br>🌱 I’m currently learning Gen Ai , Open Ai SDK , MPC Server <br>💬 Ask me about JavaScript, React.js, and how to document your learning journey effectively<br>⚡ Fun fact: I love photography 
 
 
 ## 🌐 Socials:
